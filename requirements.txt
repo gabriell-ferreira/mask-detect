@@ -1,0 +1,5 @@
+pandas
+opencv-contrib-python
+scikit-learn
+numpy
+pathlib
